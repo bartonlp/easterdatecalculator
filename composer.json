@@ -17,5 +17,11 @@
     "type": "git",
     "url": "https://github.com/bartonlp/easterdatecalculator.git"
   }
-  ]
+  ],
+  "minimum-stability": "stable",
+  "autoload" : {
+    "files": [
+              "includes/database-engines/helper-functions.php"
+             ]
+  }    
 }

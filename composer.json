@@ -21,7 +21,7 @@
   "minimum-stability": "stable",
   "autoload" : {
     "files": [
-              "includes/database-engines/helper-functions.php"
+              "easterdatecalculator.php"
              ]
   }    
 }

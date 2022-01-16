@@ -1,0 +1,21 @@
+{
+  "name": "bartonlp/easterdatecalculator",
+  "description": "Calculates easter date",
+  "require": {
+    "php": ">=7.4"
+  }
+  "license": "MIT",
+  "authors": [
+  {
+    "name": "Barton Phillips",
+    "email": "bartonphillips@gmail.com",
+    "homepage": "http://www.bartonphillips.com"
+  }
+  ],
+  "repositories": [
+  {
+    "type": "git",
+    "url": "https://github.com/bartonlp/easterdatecalculator.git"
+  }
+  ]
+}
